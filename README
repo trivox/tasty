@@ -1,0 +1,8 @@
+Somewhen it would be the tasty OS kernel
+
+It project has directory tree:
+- platform              -- platform dependent sources
+-- platpform/include    -- platform dependent includes
+- generic               -- platform independent sources
+-- generic/include      -- platform independent includes
+- out                   -- build-time temporaries and executive binary
